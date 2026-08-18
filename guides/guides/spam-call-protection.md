@@ -57,3 +57,4 @@ Users should combine spam detection tools with basic security awareness and rema
 ## Conclusion
 
 Spam call protection can help users identify and manage potentially unwanted calls. Features such as caller identification, spam warnings, blocking, and reporting provide useful layers of protection, but users should always verify suspicious callers before sharing personal or sensitive information.
+https://github.com/smithawa327-debug/caller-id-privacy-guide/blob/main/guides/guides/spam-call-protection.mdhttps://thetruecaler.com/
